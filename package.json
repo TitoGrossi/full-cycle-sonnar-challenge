@@ -1,0 +1,24 @@
+{
+  "name": "full-cycle-sonnar-challenge",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TitoGrossi/full-cycle-sonnar-challenge.git"
+  },
+  "author": "TitoGrossi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TitoGrossi/full-cycle-sonnar-challenge/issues"
+  },
+  "homepage": "https://github.com/TitoGrossi/full-cycle-sonnar-challenge#readme",
+  "dependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^28.0.3",
+    "sonar-scanner": "^3.1.0"
+  }
+}
